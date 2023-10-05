@@ -1,8 +1,8 @@
 ### boas vindas ao meu perfil 👽
 
-meu nome é luiz
+meu nome é luiz    
 
-- eu estou estudando pelo alura
+- eu estou estudando pelo alura 🦖
 
 - estou me desenvolvendo na linguagem java script 
 
